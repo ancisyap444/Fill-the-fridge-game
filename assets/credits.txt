@@ -1,0 +1,40 @@
+============================================================
+               FILL THE FRIDGE - CREDITS
+============================================================
+
+Game Design & OOP Implementation:
+- Built with Java 17+ and libGDX (LWJGL3 Desktop Backend)
+- Procedural Fridge Renderer & Solvable Stage Generator
+
+Icon Attributions (Flaticon - https://www.flaticon.com):
+- whole_chicken.png : Icon made by [Author Name] from www.flaticon.com
+- steak.png : Icon made by [Author Name] from www.flaticon.com
+- fish.png : Icon made by [Author Name] from www.flaticon.com
+- sausage.png : Icon made by [Author Name] from www.flaticon.com
+- milk.png : Icon made by [Author Name] from www.flaticon.com
+- yogurt_cup.png : Icon made by [Author Name] from www.flaticon.com
+- cheese.png : Icon made by [Author Name] from www.flaticon.com
+- butter.png : Icon made by [Author Name] from www.flaticon.com
+- egg_carton.png : Icon made by [Author Name] from www.flaticon.com
+- lettuce.png : Icon made by [Author Name] from www.flaticon.com
+- carrot.png : Icon made by [Author Name] from www.flaticon.com
+- tomato.png : Icon made by [Author Name] from www.flaticon.com
+- broccoli.png : Icon made by [Author Name] from www.flaticon.com
+- cabbage.png : Icon made by [Author Name] from www.flaticon.com
+- apple.png : Icon made by [Author Name] from www.flaticon.com
+- bread.png : Icon made by [Author Name] from www.flaticon.com
+- pizza_box.png : Icon made by [Author Name] from www.flaticon.com
+- jam_jar.png : Icon made by [Author Name] from www.flaticon.com
+- juice_bottle.png : Icon made by [Author Name] from www.flaticon.com
+- soda_can.png : Icon made by [Author Name] from www.flaticon.com
+- leftovers_container.png : Icon made by [Author Name] from www.flaticon.com
+- soup_container.png : Icon made by [Author Name] from www.flaticon.com
+- takeout_box.png : Icon made by [Author Name] from www.flaticon.com
+- empty_milk_carton.png : Icon made by [Author Name] from www.flaticon.com
+- empty_can.png : Icon made by [Author Name] from www.flaticon.com
+- banana_peel.png : Icon made by [Author Name] from www.flaticon.com
+- plastic_bag.png : Icon made by [Author Name] from www.flaticon.com
+- trash_bin.png : Icon made by [Author Name] from www.flaticon.com
+- heart.png : Icon made by [Author Name] from www.flaticon.com
+- warning_icon.png : Icon made by [Author Name] from www.flaticon.com
+- snowflake.png : Icon made by [Author Name] from www.flaticon.com
